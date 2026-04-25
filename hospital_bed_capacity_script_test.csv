@@ -1,0 +1,270 @@
+table_type,worksheet_name,scraped_at,Region,Total Hospital Beds (Prior day),Hospital Beds Available (Prior day),% Available Beds (Prior day),% Available Beds (7-day Avg),Total ICU Beds (Prior day),ICU Beds Available (Prior day),% Available ICU Beds (Prior day),% Available ICU Beds (7-Day Avg),County,Hospital ID,Hospital
+summary_by_region,Regional Bed Capacity,2026-04-25T15:17:49,Statewide,"42,368","9,689",23%,22%,"4,293","1,126",26%,25%,,,
+summary_by_region,Regional Bed Capacity,2026-04-25T15:17:49,Capital Region,"2,326",623,27%,27%,266,125,47%,42%,,,
+summary_by_region,Regional Bed Capacity,2026-04-25T15:17:49,Central New York,"1,816",506,28%,27%,213,36,17%,17%,,,
+summary_by_region,Regional Bed Capacity,2026-04-25T15:17:49,Finger Lakes,"2,534",342,13%,14%,236,30,13%,15%,,,
+summary_by_region,Regional Bed Capacity,2026-04-25T15:17:49,Long Island,"6,726","1,237",18%,18%,711,140,20%,19%,,,
+summary_by_region,Regional Bed Capacity,2026-04-25T15:17:49,Mid-Hudson,"5,472","1,894",35%,34%,577,237,41%,41%,,,
+summary_by_region,Regional Bed Capacity,2026-04-25T15:17:49,Mohawk Valley,"1,170",474,41%,39%,92,21,23%,22%,,,
+summary_by_region,Regional Bed Capacity,2026-04-25T15:17:49,New York City,"17,463","3,247",19%,18%,"1,757",400,23%,21%,,,
+summary_by_region,Regional Bed Capacity,2026-04-25T15:17:49,North Country,740,282,38%,34%,70,40,57%,64%,,,
+summary_by_region,Regional Bed Capacity,2026-04-25T15:17:49,Southern Tier,"1,196",401,34%,32%,100,34,34%,32%,,,
+summary_by_region,Regional Bed Capacity,2026-04-25T15:17:49,Western New York,"2,925",683,23%,23%,271,63,23%,24%,,,
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Capital Region,"1,092",201,18%,19%,127,44,35%,31%,Albany,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Capital Region,666,101,15%,14%,83,20,24%,17%,Albany,1,Albany Medical Center Hospital
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Capital Region,386,93,24%,28%,44,24,55%,57%,Albany,5,St. Peter's Hospital (0005)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Capital Region,40,7,18%,20%,0,0,,,Albany,9431,St. Peter's Addiction Recovery (9431)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Capital Region,103,21,20%,21%,6,1,17%,17%,Columbia,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Capital Region,103,21,20%,21%,6,1,17%,17%,Columbia,146,Columbia Memorial Hospital (0146)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Capital Region,190,66,35%,34%,30,24,80%,70%,Rensselaer,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Capital Region,19,5,26%,11%,0,0,,,Rensselaer,755,Samaritan: St. Mary's Hospital (0755)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Capital Region,171,61,36%,37%,30,24,80%,70%,Rensselaer,756,Samaritan Hospital (0756)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Capital Region,179,34,19%,18%,19,5,26%,16%,Saratoga,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Capital Region,179,34,19%,18%,19,5,26%,16%,Saratoga,818,Saratoga Hospital (0818)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Capital Region,549,262,48%,47%,62,47,76%,71%,Schenectady,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Capital Region,364,175,48%,47%,62,47,76%,71%,Schenectady,829,Ellis Hospital (0829)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Capital Region,115,28,24%,25%,0,0,,,Schenectady,831,Sunnyview Hospital and Rehab Ctr. (0831)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Capital Region,70,59,84%,86%,0,0,,,Schenectady,848,Ellis Hospital Bellevue Woman's (0848)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Capital Region,213,39,18%,20%,22,4,18%,23%,Warren,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Capital Region,213,39,18%,20%,22,4,18%,23%,Warren,1005,Glens Falls Hospital (1005)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Central New York,115,53,46%,44%,10,3,30%,30%,Cayuga,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Central New York,115,53,46%,44%,10,3,30%,30%,Cayuga,85,Auburn Community Hospital (0085)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Central New York,78,19,24%,24%,10,6,60%,50%,Cortland,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Central New York,78,19,24%,24%,10,6,60%,50%,Cortland,158,Guthrie Cortland Medical Center (0158)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Central New York,59,12,20%,23%,6,3,50%,40%,Madison,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Central New York,34,6,18%,25%,6,3,50%,40%,Madison,397,Oneida Health Hospital (0397)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Central New York,25,6,24%,20%,0,0,,,Madison,401,Community Memorial Hospital (0401)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Central New York,"1,473",391,27%,26%,179,23,13%,13%,Onondaga,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Central New York,174,31,18%,11%,14,1,7%,7%,Onondaga,628,Upstate: Community Hospital (0628)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Central New York,575,299,52%,53%,44,12,27%,25%,Onondaga,630,St. Joseph's Hospital Health Ctr. (0630)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Central New York,374,26,7%,4%,92,5,5%,7%,Onondaga,635,Upstate: University Hospital (0635)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Central New York,315,30,10%,10%,29,5,17%,17%,Onondaga,636,Crouse Hospital (0636)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Central New York,35,5,14%,15%,0,0,,,Onondaga,9059,Crouse Commonwealth Division (9059)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Central New York,91,31,34%,38%,8,1,13%,38%,Oswego,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Central New York,22,10,45%,45%,0,0,,,Oswego,12,Lakeview Mental Health & Wellness (0012)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Central New York,69,21,30%,35%,8,1,13%,38%,Oswego,727,Oswego Hospital (0727)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,116,49,42%,38%,10,6,60%,60%,Genesee,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,94,44,47%,43%,10,6,60%,60%,Genesee,339,United Memorial MC: North St. (0339)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,22,5,23%,14%,0,0,,,Genesee,340,United Memorial MC: Bank St. (0340)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,49,10,20%,28%,8,3,38%,57%,Livingston,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,49,10,20%,28%,8,3,38%,57%,Livingston,393,Nicholas H. Noyes Memorial (0393)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,"1,954",188,10%,10%,176,13,7%,7%,Monroe,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,328,33,10%,10%,14,3,21%,14%,Monroe,409,Highland Hospital (0409)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,552,56,10%,11%,42,2,5%,5%,Monroe,411,Rochester General Hospital (0411)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,20,2,10%,20%,0,0,,,Monroe,412,Unity Specialty Hospital (0412)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,733,72,10%,10%,101,7,7%,7%,Monroe,413,Strong Memorial Hospital (0413)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,321,25,8%,8%,19,1,5%,6%,Monroe,471,Unity Hospital: Rochester (0471)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,239,36,15%,18%,24,0,0%,17%,Ontario,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,43,2,5%,9%,6,0,0%,17%,Ontario,671,Geneva General Hospital (0671)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,90,21,23%,29%,6,0,0%,33%,Ontario,676,Clifton Springs Hospital & Clinic (0676)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,106,13,12%,11%,12,0,0%,8%,Ontario,678,F.F. Thompson Hospital (0678)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,25,11,44%,32%,0,0,,,Orleans,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,25,11,44%,32%,0,0,,,Orleans,718,Medina Memorial Hospital (0718)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,75,16,21%,21%,9,2,22%,33%,Wayne,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,75,16,21%,21%,9,2,22%,33%,Wayne,1028,Newark-Wayne Community Hospital (1028)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,62,32,52%,55%,9,6,67%,67%,Wyoming,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,62,32,52%,55%,9,6,67%,67%,Wyoming,1153,Wyoming County Community Hospital (15620)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,14,0,0%,14%,0,0,,,Yates,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Finger Lakes,14,0,0%,14%,0,0,,,Yates,1158,Soldiers and Sailors Mem Hospital (1158)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,"3,341",687,21%,20%,364,76,21%,18%,Nassau,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,154,18,12%,9%,8,2,25%,13%,Nassau,490,Glen Cove Hospital (0490)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,486,94,19%,19%,55,5,9%,11%,Nassau,511,NYU Langone: Long Island (0511)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,249,81,33%,31%,13,3,23%,15%,Nassau,513,Mercy MC (0513)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,201,39,19%,17%,16,6,38%,31%,Nassau,518,Long Island Jewish: Valley Stream (0518)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,333,47,14%,13%,20,8,40%,10%,Nassau,527,Mount Sinai: South Nassau (0527)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,494,257,52%,49%,69,34,49%,45%,Nassau,528,Nassau University MC (0528)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,826,73,9%,11%,93,9,10%,9%,Nassau,541,North Shore University Hospital (0541)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,55,18,33%,35%,8,2,25%,13%,Nassau,550,Syosset Hospital (0550)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,114,32,28%,27%,12,5,42%,33%,Nassau,551,St. Joseph Hospital (0551)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,129,-1,-1%,3%,10,-1,-10%,0%,Nassau,552,Plainview Hospital (0552)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,300,29,10%,7%,60,3,5%,10%,Nassau,563,St. Francis Hospital (0563)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,608,13,2%,3%,54,8,15%,17%,Queens,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,608,13,2%,3%,54,8,15%,17%,Queens,1630,Long Island Jewish MC (1630)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,"2,777",537,19%,19%,293,56,19%,21%,Suffolk,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,627,103,16%,15%,75,12,16%,15%,Suffolk,245,Stony Brook: University Hospital (0245)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,212,41,19%,17%,24,6,25%,29%,Suffolk,885,NYU Langone - Suffolk (0885)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,92,28,30%,32%,11,8,73%,45%,Suffolk,889,Stony Brook: Southampton Hospital (0889)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,80,39,49%,44%,4,3,75%,75%,Suffolk,891,Stony Brook: Eastern Long Island (0891)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,183,22,12%,8%,16,3,19%,13%,Suffolk,895,Mather Hospital: Port Jefferson (0895)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,221,54,24%,30%,16,6,38%,38%,Suffolk,896,St. Charles Hospital (0896)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,260,25,10%,12%,22,0,0%,0%,Suffolk,913,Huntington Hospital (0913)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,342,40,12%,11%,44,4,9%,14%,Suffolk,924,South Shore University Hospital (0924)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,386,62,16%,16%,51,8,16%,22%,Suffolk,925,Good Samaritan Medical Center (0925)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,150,38,25%,23%,8,3,38%,25%,Suffolk,938,Peconic Bay MC (0938)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Long Island,224,85,38%,35%,22,3,14%,35%,Suffolk,943,St. Catherine of Siena Hospital (0943)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,703,196,28%,25%,54,10,19%,30%,Dutchess,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,203,61,30%,24%,15,6,40%,33%,Dutchess,180,Mid-Hudson Valley Hospital (0180)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,385,92,24%,21%,30,1,3%,20%,Dutchess,181,Vassar Brothers MC (0181)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,115,43,37%,38%,9,3,33%,56%,Dutchess,192,Northern Dutchess Hospital (0192)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,784,247,32%,29%,81,38,47%,46%,Orange,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,191,65,34%,31%,18,4,22%,33%,Orange,694,St. Luke's Cornwall: Newburgh (0694)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,421,81,19%,17%,40,17,43%,33%,Orange,699,Garnet Health Medical Center (0699)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,69,46,67%,69%,14,11,79%,79%,Orange,704,St. Anthony Community Hospital (0704)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,103,55,53%,48%,9,6,67%,78%,Orange,708,Bon Secours Community Hospital (0708)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,149,75,50%,55%,10,7,70%,70%,Putnam,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,149,75,50%,55%,10,7,70%,70%,Putnam,752,Putnam Hospital (0752)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,633,262,41%,43%,70,27,39%,41%,Rockland,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,72,41,57%,60%,0,0,,,Rockland,775,Helen Hayes Hospital (0775)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,266,84,32%,30%,17,5,29%,29%,Rockland,776,Montefiore: Nyack (0776)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,295,137,46%,49%,53,22,42%,45%,Rockland,779,Good Samaritan Suffern (0779)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,100,53,53%,54%,11,8,73%,64%,Sullivan,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,15,10,67%,67%,0,0,,,Sullivan,968,Garnet Health Medical Center Hermann (0968)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,85,43,51%,52%,11,8,73%,64%,Sullivan,971,Garnet Health Medical Center Catskills (0971)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,327,229,70%,69%,86,82,95%,94%,Ulster,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,302,221,73%,72%,86,82,95%,94%,Ulster,989,HealthAlliance Mary's Ave (0989)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,25,8,32%,32%,0,0,,,Ulster,1002,Ellenville Regional Hospital (1002)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,"2,776",832,30%,29%,265,65,25%,22%,Westchester,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,124,23,19%,13%,12,5,42%,25%,Westchester,1039,NYP: Hudson Valley (1039)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,329,45,14%,11%,22,9,41%,23%,Westchester,1045,White Plains Hospital Center (1045)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,149,31,21%,22%,0,0,,,Westchester,1046,Winifred Masterson Burke Rehab (1046)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,165,8,5%,4%,0,0,,,Westchester,1047,NYP: Westchester BHC (1047)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,111,111,100%,100%,5,5,100%,100%,Westchester,1061,Montefiore: Mount Vernon Hospital (1061)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,260,259,100%,100%,12,12,100%,100%,Westchester,1072,Montefiore: New Rochelle Hospital (1072)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,199,82,41%,33%,12,3,25%,17%,Westchester,1097,SJRH: St. John's Division (1097)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,97,-5,-5%,-6%,6,0,0%,-17%,Westchester,1098,St. Joseph's MC (1098)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,148,20,14%,15%,0,0,,,Westchester,1099,SJRH: Park Care Pavilion (1099)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,188,90,48%,45%,10,4,40%,30%,Westchester,1117,Northern Westchester Hospital (1117)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,195,40,21%,21%,21,4,19%,24%,Westchester,1122,NYP: Westchester (1122)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,20,16,80%,70%,0,0,,,Westchester,1124,SJRH: Dobbs Ferry Pavilion (1124)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,172,58,34%,35%,12,4,33%,25%,Westchester,1129,Phelps Hospital (1129)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,126,18,14%,17%,0,0,,,Westchester,1133,St. Joseph's MC: St. Vincent's (1133)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mid-Hudson,493,36,7%,10%,153,19,12%,14%,Westchester,1139,Westchester MC (1139)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mohawk Valley,44,15,34%,36%,12,4,33%,33%,Fulton,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mohawk Valley,44,15,34%,36%,12,4,33%,33%,Fulton,330,Nathan Littauer Hospital (0330)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mohawk Valley,24,12,50%,52%,0,0,,,Herkimer,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mohawk Valley,24,12,50%,52%,0,0,,,Herkimer,362,Little Falls Hospital (0362)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mohawk Valley,219,142,65%,59%,11,8,73%,73%,Montgomery,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mohawk Valley,37,16,43%,43%,0,0,,,Montgomery,482,St. Mary's: Amsterdam Memorial (0482)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mohawk Valley,182,126,69%,63%,11,8,73%,73%,Montgomery,484,St. Mary's Healthcare (0484)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mohawk Valley,551,165,30%,30%,55,9,16%,13%,Oneida,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mohawk Valley,173,121,70%,71%,10,4,40%,30%,Oneida,589,Rome Memorial Hospital (0589)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mohawk Valley,378,44,12%,11%,45,5,11%,9%,Oneida,15478,Wynn Hospital (15478)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mohawk Valley,297,113,38%,37%,14,0,0%,7%,Otsego,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mohawk Valley,67,38,57%,52%,0,0,,,Otsego,739,A.O. Fox Memorial Hospital (0739)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mohawk Valley,230,75,33%,33%,14,0,0%,7%,Otsego,746,Mary Imogene Bassett Hospital (0746)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mohawk Valley,35,27,77%,66%,0,0,,,Schoharie,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Mohawk Valley,35,27,77%,66%,0,0,,,Schoharie,10216,Cobleskill Regional Hospital (10216)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,"3,422",696,20%,19%,331,115,35%,30%,Bronx,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,143,77,54%,51%,0,0,,,Bronx,1164,BronxCare Center Fulton Mandy (1164)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,378,72,19%,16%,44,15,34%,25%,Bronx,1165,Jacobi Medical Center (1165)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,292,60,21%,22%,16,5,31%,13%,Bronx,1168,Montefiore MC: Wakefield Hospital (1168)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,660,69,10%,10%,80,22,28%,30%,Bronx,1169,Montefiore MC: Henry & Lucy Moses (1169)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,346,70,20%,17%,34,13,38%,32%,Bronx,1172,Lincoln Medical & Mental Health (1172)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,200,7,4%,3%,0,0,,,Bronx,1175,Calvary Hospital (1175)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,310,51,16%,15%,15,5,33%,19%,Bronx,1176,SBH Health System (1176)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,479,179,37%,36%,37,5,14%,14%,Bronx,1178,BronxCare Center Concourse (1178)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,228,60,26%,26%,73,42,58%,56%,Bronx,1186,North Central Bronx Hospital (1186)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,386,51,13%,13%,32,8,25%,13%,Bronx,3058,Montefiore MC: Weiler Hospital (3058)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,"4,005",740,18%,17%,375,81,22%,22%,Kings,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,311,38,12%,7%,33,3,9%,5%,Kings,1286,Brookdale Hospital Medical Center (1286)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,181,49,27%,30%,17,4,24%,29%,Kings,1288,Brooklyn Center Downtown (1288)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,120,40,33%,24%,5,-2,-40%,-17%,Kings,1293,Maimonides Midwood Community (1293)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,362,53,15%,15%,39,10,26%,26%,Kings,1294,Coney Island Hospital (1294)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,503,47,9%,9%,38,9,24%,16%,Kings,1301,Kings County Hospital Center (1301)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,366,59,16%,16%,33,5,15%,9%,Kings,1304,NYU Langone: Brooklyn (1304)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,612,166,27%,24%,67,14,21%,19%,Kings,1305,Maimonides MC (1305)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,522,80,15%,17%,34,0,0%,15%,Kings,1306,NYP: Brooklyn Methodist (1306)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,161,27,17%,12%,25,5,20%,17%,Kings,1309,Interfaith Medical Center (1309)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,168,56,33%,29%,16,3,19%,25%,Kings,1318,Wyckoff Heights MC (1318)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,223,59,26%,26%,26,15,58%,54%,Kings,1320,University: SUNY Downstate (1320)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,193,18,9%,8%,21,7,33%,35%,Kings,1324,Mount Sinai: Brooklyn (1324)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,258,47,18%,17%,21,8,38%,43%,Kings,1692,Woodhull Medical & Mental Health (1692)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,25,1,4%,4%,0,0,,,Kings,10223,Calvary Hospital (10223)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,"6,677","1,037",16%,15%,720,106,15%,14%,New York,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,171,70,41%,40%,20,5,25%,35%,New York,1437,NYP: Lower Manhattan (1437)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,765,68,9%,9%,73,26,36%,21%,New York,1438,Bellevue Hospital Center (1438)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,230,31,13%,13%,17,0,0%,12%,New York,1445,Harlem Hospital Center (1445)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,28,3,11%,25%,0,0,,,New York,1446,NYU Langone: Orthopedic Hospital (1446)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,128,17,13%,13%,4,2,50%,50%,New York,1447,Hospital for Special Surgery (1447)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,424,77,18%,22%,48,11,23%,23%,New York,1450,Lenox Hill Hospital (1450)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,458,35,8%,9%,20,3,15%,10%,New York,1453,Memorial Hospital for Cancer (1453)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,230,47,20%,15%,8,3,38%,56%,New York,1454,Metropolitan Hospital Center (1454)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,767,78,10%,10%,94,7,7%,8%,New York,1456,Mount Sinai Hospital (1456)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,641,55,9%,8%,116,15,13%,11%,New York,1458,NYP: Weill Cornell MC (1458)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,20,16,80%,80%,0,0,,,New York,1460,Mount Sinai: NY Eye & Ear (1460)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,619,79,13%,12%,125,6,5%,8%,New York,1463,NYU Langone: Tisch (1463)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,793,108,14%,13%,116,8,7%,4%,New York,1464,NYP: Columbia Center (1464)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,392,68,17%,16%,31,12,39%,39%,New York,1466,Mount Sinai: West (1466)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,322,45,14%,11%,38,8,21%,25%,New York,1469,Mount Sinai: Morningside (1469)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,201,65,32%,33%,0,0,,,New York,1486,Henry J. Carter Specialty Hospital (1486)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,180,44,24%,14%,10,0,0%,0%,New York,3975,NYP: Allen Hospital (3975)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,8,6,75%,63%,0,0,,,New York,9700,Lenox Health Greenwich Village (9700)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,176,103,59%,57%,0,0,,,New York,10139,NYP: Koch Center (10139)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,15,0,0%,7%,0,0,,,New York,10355,David H. Koch Cancer Center (10355)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,109,22,20%,22%,0,0,,,New York,15437,Mount Sinai Behavioral Health Center (15437)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,"2,435",524,22%,19%,214,72,34%,32%,Queens,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,529,83,16%,14%,36,7,19%,19%,Queens,1626,Elmhurst Hospital Center (1626)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,178,59,33%,34%,21,14,67%,71%,Queens,1628,Flushing Hospital Medical Center (1628)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,318,50,16%,12%,26,3,12%,8%,Queens,1629,Jamaica Hospital Medical Center (1629)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,263,42,16%,17%,16,4,25%,13%,Queens,1633,Queens Hospital Center (1633)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,221,59,27%,27%,16,0,0%,7%,Queens,1635,St. John's Episcopal: South Shore (1635)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,524,122,23%,24%,74,34,46%,48%,Queens,1637,NYP: Queens (1637)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,236,62,26%,20%,17,5,29%,18%,Queens,1638,Long Island Jewish: Forest Hills (1638)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,166,47,28%,17%,8,5,63%,25%,Queens,1639,Mount Sinai Hospital of Queens (1639)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,924,250,27%,27%,117,26,22%,19%,Richmond,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,130,34,26%,24%,16,9,56%,38%,Richmond,1737,Staten Island University: South (1737)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,313,136,43%,40%,33,14,42%,39%,Richmond,1738,Richmond University MC (1738)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,New York City,481,80,17%,20%,68,3,4%,4%,Richmond,1740,Staten Island University: North (1740)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,North Country,245,105,43%,41%,36,27,75%,78%,Clinton,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,North Country,245,105,43%,41%,36,27,75%,78%,Clinton,135,UVM: Champlain Valley (0135)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,North Country,25,9,36%,36%,0,0,,,Essex,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,North Country,25,9,36%,36%,0,0,,,Essex,303,UVM: Elizabethtown Community (0303)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,North Country,85,50,59%,56%,4,3,75%,100%,Franklin,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,North Country,46,25,54%,55%,4,3,75%,100%,Franklin,324,Adirondack Medical Center Saranac Lake (0324)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,North Country,39,25,64%,56%,0,0,,,Franklin,325,UVM: Alice Hyde Medical Center (15485)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,North Country,169,51,30%,20%,13,2,15%,30%,Jefferson,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,North Country,135,33,24%,14%,9,0,0%,17%,Jefferson,367,Samaritan MC (0367)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,North Country,9,5,56%,44%,0,0,,,Jefferson,377,River Hospital (0377)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,North Country,25,13,52%,48%,4,2,50%,50%,Jefferson,379,Carthage Area Hospital (0379)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,North Country,33,20,61%,55%,5,2,40%,60%,Lewis,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,North Country,33,20,61%,55%,5,2,40%,60%,Lewis,383,Lewis County General Hospital
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,North Country,183,47,26%,25%,12,6,50%,42%,St. Lawrence,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,North Country,32,15,47%,44%,0,0,,,St. Lawrence,804,Massena Hospital (0804)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,North Country,25,13,52%,48%,0,0,,,St. Lawrence,812,Gouverneur Hospital (0812)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,North Country,101,10,10%,10%,6,1,17%,17%,St. Lawrence,815,Canton Potsdam Hospital (0815)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,North Country,25,9,36%,40%,6,5,83%,67%,St. Lawrence,15684,Claxton Hepburn Medical Center (0798)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Southern Tier,636,145,23%,22%,44,6,14%,16%,Broome,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Southern Tier,128,30,23%,16%,4,1,25%,20%,Broome,42,UHS: Binghamton General Hospital (0042)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Southern Tier,192,86,45%,47%,10,5,50%,50%,Broome,43,Our Lady of Lourdes Memorial (0043)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Southern Tier,316,29,9%,9%,30,0,0%,3%,Broome,58,UHS: Wilson Medical Center (0058)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Southern Tier,236,115,49%,44%,28,14,50%,43%,Chemung,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Southern Tier,191,90,47%,44%,28,14,50%,43%,Chemung,116,Arnot Ogden Medical Center (0116)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Southern Tier,45,25,56%,47%,0,0,,,Chemung,118,St. Joseph's Hospital (0118)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Southern Tier,29,10,34%,45%,4,2,50%,50%,Chenango,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Southern Tier,29,10,34%,45%,4,2,50%,50%,Chenango,128,Chenango Memorial Hospital (0128)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Southern Tier,59,26,44%,51%,0,0,,,Delaware,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Southern Tier,14,1,7%,7%,0,0,,,Delaware,165,O'Connor Hospital (0165)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Southern Tier,24,22,92%,92%,0,0,,,Delaware,170,Margaretville Hospital (0170)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Southern Tier,21,3,14%,33%,0,0,,,Delaware,174,Delaware Valley Hospital (0174)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Southern Tier,10,7,70%,44%,0,0,,,Schuyler,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Southern Tier,10,7,70%,44%,0,0,,,Schuyler,858,Schuyler Hospital (0858)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Southern Tier,76,26,34%,23%,8,2,25%,25%,Steuben,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Southern Tier,59,20,34%,21%,8,2,25%,25%,Steuben,866,Corning Hospital (0866)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Southern Tier,17,6,35%,29%,0,0,,,Steuben,870,St. James Hospital (0870)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Southern Tier,150,72,48%,48%,16,10,63%,56%,Tompkins,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Southern Tier,150,72,48%,48%,16,10,63%,56%,Tompkins,977,Cayuga Medical Center Ithaca (0977)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,46,27,59%,49%,5,3,60%,40%,Allegany,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,15,6,40%,46%,0,0,,,Allegany,37,Cuba Memorial Hospital (0037)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,31,21,68%,50%,5,3,60%,40%,Allegany,39,Jones Memorial Hospital (0039)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,128,38,30%,25%,8,1,13%,0%,Cattaraugus,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,128,38,30%,25%,8,1,13%,0%,Cattaraugus,66,Olean General Hospital (0066)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,147,67,46%,43%,17,9,53%,53%,Chautauqua,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,22,7,32%,42%,5,1,20%,25%,Chautauqua,98,Brooks TLC Hospital (0098)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,121,56,46%,42%,12,8,67%,62%,Chautauqua,103,UPMC: Chautauqua at WCA (0103)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,4,4,100%,100%,0,0,,,Chautauqua,111,Westfield Memorial Hospital (0111)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,"2,286",406,18%,18%,221,40,18%,20%,Erie,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,494,74,15%,17%,82,7,9%,9%,Erie,207,Buffalo General Medical Center (0207)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,28,11,39%,29%,0,0,,,Erie,208,John R. Oishei Children's Hospital (0208)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,515,67,13%,12%,40,0,0%,10%,Erie,210,Erie County Medical Center (0210)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,358,55,15%,18%,35,3,9%,17%,Erie,213,Mercy Hospital: Buffalo (0213)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,153,33,22%,22%,14,5,36%,43%,Erie,216,Roswell Park Cancer Institute (0216)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,187,54,29%,21%,16,11,69%,63%,Erie,218,Sisters of Charity Hospital (0218)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,170,34,20%,18%,14,11,79%,57%,Erie,267,Kenmore Mercy Hospital (0267)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,15,11,73%,73%,0,0,,,Erie,280,Bertrand Chaffee Hospital (0280)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,83,45,54%,53%,0,0,,,Erie,292,Sisters of Charity: St. Joseph (0292)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,15,4,27%,27%,0,0,,,Erie,1723,Mercy Hospital: Orchard Park Div. (1723)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,268,18,7%,8%,20,3,15%,11%,Erie,3067,Millard Fillmore Hospital (3067)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,318,145,46%,45%,20,10,50%,55%,Niagara,Total,Total
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,179,111,62%,64%,12,6,50%,58%,Niagara,574,Niagara Falls Memorial MC (0574)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,129,42,33%,29%,8,4,50%,50%,Niagara,583,Mount St. Mary's Hospital (0583)
+detail_by_hospital,Bed Capacity Details,2026-04-25T15:17:49,Western New York,10,-8,-80%,-90%,0,0,,,Niagara,15464,Lockport Memorial Hospital (15464)

@@ -1,0 +1,4 @@
+TableauScraper
+pandas
+requests
+playwright
