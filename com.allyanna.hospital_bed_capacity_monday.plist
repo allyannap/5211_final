@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.allyanna.hospital_bed_capacity_monday</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/zsh</string>
+    <string>/Users/allyanna/Desktop/Coding/5211/work/5211_final/run_monday_hospital_scrape.sh</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/allyanna/Desktop/Coding/5211/work/5211_final</string>
+
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Weekday</key>
+    <integer>1</integer>
+    <key>Hour</key>
+    <integer>0</integer>
+    <key>Minute</key>
+    <integer>0</integer>
+  </dict>
+
+  <key>RunAtLoad</key>
+  <false/>
+
+  <key>StandardOutPath</key>
+  <string>/Users/allyanna/Desktop/Coding/5211/work/5211_final/hospital_scrape_monday.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/allyanna/Desktop/Coding/5211/work/5211_final/hospital_scrape_monday.err.log</string>
+</dict>
+</plist>
